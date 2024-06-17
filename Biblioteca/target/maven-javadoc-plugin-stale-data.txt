@@ -1,0 +1,39 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'C:/Users/barba/OneDrive/Documentos/NetBeansProjects/Biblioteca/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/barba/OneDrive/Documentos/NetBeansProjects/Biblioteca/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Biblioteca 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Biblioteca 1.0-SNAPSHOT API'
+com.mycompany.biblioteca
+C:\Users\barba\OneDrive\Documentos\NetBeansProjects\Biblioteca\src\main\java = 1718557231465
+C:\Users\barba\OneDrive\Documentos\NetBeansProjects\Biblioteca\target\site\apidocs\allclasses-index.html = 1718587715403
+C:\Users\barba\OneDrive\Documentos\NetBeansProjects\Biblioteca\target\site\apidocs\allpackages-index.html = 1718587715407
+C:\Users\barba\OneDrive\Documentos\NetBeansProjects\Biblioteca\target\site\apidocs\element-list = 1718587715326
+C:\Users\barba\OneDrive\Documentos\NetBeansProjects\Biblioteca\target\site\apidocs\help-doc.html = 1718587715450
+C:\Users\barba\OneDrive\Documentos\NetBeansProjects\Biblioteca\target\site\apidocs\index-all.html = 1718587715439
+C:\Users\barba\OneDrive\Documentos\NetBeansProjects\Biblioteca\target\site\apidocs\index.html = 1718587715444
+C:\Users\barba\OneDrive\Documentos\NetBeansProjects\Biblioteca\target\site\apidocs\member-search-index.js = 1718587715414
+C:\Users\barba\OneDrive\Documentos\NetBeansProjects\Biblioteca\target\site\apidocs\module-search-index.js = 1718587715408
+C:\Users\barba\OneDrive\Documentos\NetBeansProjects\Biblioteca\target\site\apidocs\overview-tree.html = 1718587715386
+C:\Users\barba\OneDrive\Documentos\NetBeansProjects\Biblioteca\target\site\apidocs\package-search-index.js = 1718587715411
+C:\Users\barba\OneDrive\Documentos\NetBeansProjects\Biblioteca\target\site\apidocs\search.html = 1718587715441
+C:\Users\barba\OneDrive\Documentos\NetBeansProjects\Biblioteca\target\site\apidocs\tag-search-index.js = 1718587715417
+C:\Users\barba\OneDrive\Documentos\NetBeansProjects\Biblioteca\target\site\apidocs\type-search-index.js = 1718587715412
